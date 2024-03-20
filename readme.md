@@ -14,3 +14,5 @@ I noted that the project had a missing 'Models' folder, so I created one and add
 'App_Data' is also missing, but I don't actually need that so I left it out.
 
 I am aware the test is checking for 'Code Structure and Architecture', but given I only need 2 files to make this work, I decided that less is more here.
+
+Note that there is also a unit test project, but one of the tests fail.
